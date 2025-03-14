@@ -34,9 +34,9 @@
     "@docusaurus/module-type-aliases": "3.7.0",
     "@docusaurus/types": "3.7.0"
   },
-  "homepage": "https://rodinux.github.io/",
-  "predeploy": "yarn run build",
-  "deploy": "dev -b docusaurus -d build",
+//homepage": "https://rodinux.github.io/",
+//"predeploy": "yarn run build",
+//"deploy": "dev -b docusaurus -d build",
   "browserslist": {
     "production": [
       ">0.5%",
