@@ -1,0 +1,27 @@
+{
+  "id": "community/chatons",
+  "title": "Creating a CHATONS with YunoHost",
+  "description": "{/*",
+  "source": "@site/docs/05.community/45.chatons.mdx",
+  "sourceDirName": "05.community",
+  "slug": "/community/chatons",
+  "permalink": "/fr/community/chatons",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/05.community/45.chatons.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 45,
+  "frontMatter": {
+    "title": "Creating a CHATONS with YunoHost"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Communication",
+    "permalink": "/fr/community/press_kit"
+  },
+  "next": {
+    "title": "General and Specific Conditions of Services operated by the YunoHost project",
+    "permalink": "/fr/community/terms_of_services"
+  }
+}

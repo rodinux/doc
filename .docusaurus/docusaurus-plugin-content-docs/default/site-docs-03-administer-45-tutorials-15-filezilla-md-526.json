@@ -1,0 +1,28 @@
+{
+  "id": "administer/tutorials/filezilla",
+  "title": "Exchange files with your server using a graphical interface",
+  "description": "This page explains how to exchange files (backup archives, music, pictures, movies...) with your server using a graphical interface for the (S)FTP protocol. This is an alternative to using scp which can be deemed technical and cryptic, or using an app like Nextcloud.",
+  "source": "@site/docs/03.administer/45.tutorials/15.filezilla.md",
+  "sourceDirName": "03.administer/45.tutorials",
+  "slug": "/administer/tutorials/filezilla",
+  "permalink": "/fr/administer/tutorials/filezilla",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/45.tutorials/15.filezilla.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_label": "Transfer files",
+    "title": "Exchange files with your server using a graphical interface"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Theme the portal",
+    "permalink": "/fr/administer/tutorials/theming"
+  },
+  "next": {
+    "title": "Add external storage",
+    "permalink": "/fr/administer/tutorials/external_storage"
+  }
+}

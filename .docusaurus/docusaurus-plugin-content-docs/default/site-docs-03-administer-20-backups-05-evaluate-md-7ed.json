@@ -1,0 +1,27 @@
+{
+  "id": "administer/backups/evaluate",
+  "title": "Backup strategies",
+  "description": "In the context of self-hosting, backups are an important element to compensate for unexpected events (fire, database corruption, loss of access to the server, compromised server...). The backup policy to implement depends on the importance of the services and data you manage. For example, backing up a test server will be of little interest, while you will want to be very careful if you are managing critical data for an association or a company - and in such cases, you will want to store the backups in a different location or locations.",
+  "source": "@site/docs/03.administer/20.backups/05.evaluate.md",
+  "sourceDirName": "03.administer/20.backups",
+  "slug": "/administer/backups/evaluate",
+  "permalink": "/fr/administer/backups/evaluate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/20.backups/05.evaluate.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Backup strategies"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Backups",
+    "permalink": "/fr/category/backups"
+  },
+  "next": {
+    "title": "Backup methods",
+    "permalink": "/fr/administer/backups/backup_methods"
+  }
+}

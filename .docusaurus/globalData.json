@@ -1,0 +1,571 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/fr/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/fr/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "administer/admin_guide/admin",
+              "path": "/fr/administer/admin_guide/admin",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/apps/apps",
+              "path": "/fr/administer/admin_guide/apps/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/apps/custom_apps",
+              "path": "/fr/administer/admin_guide/apps/custom_apps",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/command_line",
+              "path": "/fr/administer/admin_guide/command_line",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/domains/certificate",
+              "path": "/fr/administer/admin_guide/domains/certificate",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/domains/domains",
+              "path": "/fr/administer/admin_guide/domains/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/email",
+              "path": "/fr/administer/admin_guide/email",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/guidelines",
+              "path": "/fr/administer/admin_guide/guidelines",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/index",
+              "path": "/fr/administer/admin_guide/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/upgrade/bullseye_bookworm/bullseye_bookworm",
+              "path": "/fr/administer/admin_guide/upgrade/bullseye_bookworm/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/upgrade/bullseye_bookworm/issues_faq/issues_faq",
+              "path": "/fr/administer/admin_guide/upgrade/bullseye_bookworm/issues_faq/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/upgrade/buster_bullseye_migration",
+              "path": "/fr/administer/admin_guide/upgrade/buster_bullseye_migration",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/upgrade/upgrade",
+              "path": "/fr/administer/admin_guide/upgrade/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/users/groups_and_permissions",
+              "path": "/fr/administer/admin_guide/users/groups_and_permissions",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/admin_guide/users/users",
+              "path": "/fr/administer/admin_guide/users/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/backups/avoid_hardware_failure",
+              "path": "/fr/administer/backups/avoid_hardware_failure",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/backups/backup_methods",
+              "path": "/fr/administer/backups/backup_methods",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/backups/clone_filesystem",
+              "path": "/fr/administer/backups/clone_filesystem",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/backups/custom_backup_methods",
+              "path": "/fr/administer/backups/custom_backup_methods",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/backups/evaluate",
+              "path": "/fr/administer/backups/evaluate",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/backups/include_exclude_files",
+              "path": "/fr/administer/backups/include_exclude_files",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/backups/index",
+              "path": "/fr/administer/backups/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/backups/migrate_or_merge_servers",
+              "path": "/fr/administer/backups/migrate_or_merge_servers",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/troubleshooting/blacklist_forms",
+              "path": "/fr/administer/troubleshooting/blacklist_forms",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/troubleshooting/change_admin_password",
+              "path": "/fr/administer/troubleshooting/change_admin_password",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/troubleshooting/cleanup",
+              "path": "/fr/administer/troubleshooting/cleanup",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/troubleshooting/fail2ban",
+              "path": "/fr/administer/troubleshooting/fail2ban",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/troubleshooting/index",
+              "path": "/fr/administer/troubleshooting/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/troubleshooting/ipv6",
+              "path": "/fr/administer/troubleshooting/ipv6",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/troubleshooting/noaccess",
+              "path": "/fr/administer/troubleshooting/noaccess",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/certificate_custom",
+              "path": "/fr/administer/tutorials/certificate_custom",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/domains/dns_dynamicip",
+              "path": "/fr/administer/tutorials/domains/dns_dynamicip",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/domains/dns_local_network",
+              "path": "/fr/administer/tutorials/domains/dns_local_network",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/domains/dns_nohost_me",
+              "path": "/fr/administer/tutorials/domains/dns_nohost_me",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/domains/dns_subdomains",
+              "path": "/fr/administer/tutorials/domains/dns_subdomains",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/email_configure_relay",
+              "path": "/fr/administer/tutorials/email_configure_relay",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/external_storage",
+              "path": "/fr/administer/tutorials/external_storage",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/filezilla",
+              "path": "/fr/administer/tutorials/filezilla",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/moving_app_folder",
+              "path": "/fr/administer/tutorials/moving_app_folder",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/security",
+              "path": "/fr/administer/tutorials/security",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/sftp_on_apps",
+              "path": "/fr/administer/tutorials/sftp_on_apps",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/theming",
+              "path": "/fr/administer/tutorials/theming",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "administer/tutorials/torhiddenservice",
+              "path": "/fr/administer/tutorials/torhiddenservice",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "community/asking_for_help_efficiently",
+              "path": "/fr/community/asking_for_help_efficiently",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "community/chat_rooms",
+              "path": "/fr/community/chat_rooms",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "community/chatons",
+              "path": "/fr/community/chatons",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "community/faq",
+              "path": "/fr/community/faq",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "community/forum",
+              "path": "/fr/community/forum",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "community/help",
+              "path": "/fr/community/help",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "community/press_kit",
+              "path": "/fr/community/press_kit",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "community/project_budget",
+              "path": "/fr/community/project_budget",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "community/security_team",
+              "path": "/fr/community/security_team",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "community/sponsors_partners",
+              "path": "/fr/community/sponsors_partners",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "community/terms_of_services",
+              "path": "/fr/community/terms_of_services",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "community/yunohost_project_organization",
+              "path": "/fr/community/yunohost_project_organization",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/dev/forms",
+              "path": "/fr/contribute/dev/forms",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/dev/index",
+              "path": "/fr/contribute/dev/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/dev/maindomain",
+              "path": "/fr/contribute/dev/maindomain",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/index",
+              "path": "/fr/contribute/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/advanced/advanced_packagers",
+              "path": "/fr/contribute/packaging_apps/advanced/advanced_packagers",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/advanced/config_panels",
+              "path": "/fr/contribute/packaging_apps/advanced/config_panels",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/advanced/packaging_apps_hooks",
+              "path": "/fr/contribute/packaging_apps/advanced/packaging_apps_hooks",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/advanced/packaging_v2",
+              "path": "/fr/contribute/packaging_apps/advanced/packaging_v2",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/advanced/sso_ldap_integration",
+              "path": "/fr/contribute/packaging_apps/advanced/sso_ldap_integration",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/doc",
+              "path": "/fr/contribute/packaging_apps/doc",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/index",
+              "path": "/fr/contribute/packaging_apps/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/manifest/app_resources",
+              "path": "/fr/contribute/packaging_apps/manifest/app_resources",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/manifest/index",
+              "path": "/fr/contribute/packaging_apps/manifest/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/policy",
+              "path": "/fr/contribute/packaging_apps/policy",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/publishing",
+              "path": "/fr/contribute/packaging_apps/publishing",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/resources/packaging_apps_git",
+              "path": "/fr/contribute/packaging_apps/resources/packaging_apps_git",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/resources/packaging_apps_virtualbox",
+              "path": "/fr/contribute/packaging_apps/resources/packaging_apps_virtualbox",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/scripts/index",
+              "path": "/fr/contribute/packaging_apps/scripts/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/scripts/packaging_app_scripts_helpers",
+              "path": "/fr/contribute/packaging_apps/scripts/packaging_app_scripts_helpers",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/scripts/packaging_app_scripts_helpers_v21",
+              "path": "/fr/contribute/packaging_apps/scripts/packaging_app_scripts_helpers_v21",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/scripts/shell_variables_scope",
+              "path": "/fr/contribute/packaging_apps/scripts/shell_variables_scope",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/packaging_apps/testing",
+              "path": "/fr/contribute/packaging_apps/testing",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/write_documentation/apps_documentation",
+              "path": "/fr/contribute/write_documentation/apps_documentation",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/write_documentation/git",
+              "path": "/fr/contribute/write_documentation/git",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/write_documentation/index",
+              "path": "/fr/contribute/write_documentation/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "contribute/write_documentation/markdown_guide",
+              "path": "/fr/contribute/write_documentation/markdown_guide",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/fr/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "install/index",
+              "path": "/fr/install/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "install/providers/isp/index",
+              "path": "/fr/install/providers/isp/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "install/providers/registrar/gandi",
+              "path": "/fr/install/providers/registrar/gandi",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "install/providers/registrar/index",
+              "path": "/fr/install/providers/registrar/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "install/providers/registrar/namecheap",
+              "path": "/fr/install/providers/registrar/namecheap",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "install/providers/registrar/ovh/autodns",
+              "path": "/fr/install/providers/registrar/ovh/autodns",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "install/providers/registrar/ovh/manualdns",
+              "path": "/fr/install/providers/registrar/ovh/manualdns",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "install/providers/servers",
+              "path": "/fr/install/providers/servers",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "install/providers/vpn/index",
+              "path": "/fr/install/providers/vpn/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "install/providers/vpn/vpn_advantage",
+              "path": "/fr/install/providers/vpn/vpn_advantage",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "overview/self_hosting",
+              "path": "/fr/overview/self_hosting",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "overview/try_yunohost",
+              "path": "/fr/overview/try_yunohost",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "overview/what_is_yunohost",
+              "path": "/fr/overview/what_is_yunohost",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "user_guide/email_configure_client",
+              "path": "/fr/user_guide/email_configure_client",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "user_guide/email_migration",
+              "path": "/fr/user_guide/email_migration",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "user_guide/index",
+              "path": "/fr/user_guide/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/overview",
+              "path": "/fr/category/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/providers",
+              "path": "/fr/category/providers",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/administration-guide",
+              "path": "/fr/category/administration-guide",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/backups",
+              "path": "/fr/category/backups",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/tutorials",
+              "path": "/fr/category/tutorials",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/domains",
+              "path": "/fr/category/domains",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/community",
+              "path": "/fr/category/community",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/advanced",
+              "path": "/fr/category/advanced",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/misc-resources",
+              "path": "/fr/category/misc-resources",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/fr/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  },
+  "docusaurus-lunr-search": {
+    "default": {
+      "fileNames": {
+        "searchDoc": "search-doc-1741988582848.json",
+        "lunrIndex": "lunr-index-1741988582848.json"
+      }
+    }
+  }
+}

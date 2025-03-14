@@ -1,0 +1,27 @@
+{
+  "id": "contribute/packaging_apps/advanced/packaging_v2",
+  "title": "Packaging v2",
+  "description": "Packaging v2 is a major improvement for the packaging introduced in YunoHost 11.1",
+  "source": "@site/docs/06.contribute/10.packaging_apps/60.advanced/70.packaging_v2.md",
+  "sourceDirName": "06.contribute/10.packaging_apps/60.advanced",
+  "slug": "/contribute/packaging_apps/advanced/packaging_v2",
+  "permalink": "/fr/contribute/packaging_apps/advanced/packaging_v2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/60.advanced/70.packaging_v2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 70,
+  "frontMatter": {
+    "title": "Packaging v2"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Advanced packagers",
+    "permalink": "/fr/contribute/packaging_apps/advanced/advanced_packagers"
+  },
+  "next": {
+    "title": "Misc resources",
+    "permalink": "/fr/category/misc-resources"
+  }
+}

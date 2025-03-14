@@ -1,0 +1,26 @@
+{
+  "id": "contribute/packaging_apps/resources/packaging_apps_git",
+  "title": "Use Git to package apps",
+  "description": "Git... Our dear beloved Git, which can be described also as \"Goddamn Idiotic Truckload of sh\\*t\", according to Linus.",
+  "source": "@site/docs/06.contribute/10.packaging_apps/80.resources/packaging_apps_git.md",
+  "sourceDirName": "06.contribute/10.packaging_apps/80.resources",
+  "slug": "/contribute/packaging_apps/resources/packaging_apps_git",
+  "permalink": "/fr/contribute/packaging_apps/resources/packaging_apps_git",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/80.resources/packaging_apps_git.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Use Git to package apps"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Misc resources",
+    "permalink": "/fr/category/misc-resources"
+  },
+  "next": {
+    "title": "Create a development environment with VirtualBox",
+    "permalink": "/fr/contribute/packaging_apps/resources/packaging_apps_virtualbox"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "administer/admin_guide/users/groups_and_permissions",
+  "title": "Users groups and permissions",
+  "description": "You can access the groups and permissions management interface from the webadmin",
+  "source": "@site/docs/03.administer/15.admin_guide/20.users/groups_and_permissions.mdx",
+  "sourceDirName": "03.administer/15.admin_guide/20.users",
+  "slug": "/administer/admin_guide/users/groups_and_permissions",
+  "permalink": "/fr/administer/admin_guide/users/groups_and_permissions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/15.admin_guide/20.users/groups_and_permissions.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Users groups and permissions"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Users and the SSO",
+    "permalink": "/fr/administer/admin_guide/users/"
+  },
+  "next": {
+    "title": "Domains",
+    "permalink": "/fr/administer/admin_guide/domains/"
+  }
+}

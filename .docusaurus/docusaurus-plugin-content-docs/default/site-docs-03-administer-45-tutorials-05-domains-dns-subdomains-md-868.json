@@ -1,0 +1,26 @@
+{
+  "id": "administer/tutorials/domains/dns_subdomains",
+  "title": "DNS and subdomains for the applications",
+  "description": "Subdomains",
+  "source": "@site/docs/03.administer/45.tutorials/05.domains/dns_subdomains.md",
+  "sourceDirName": "03.administer/45.tutorials/05.domains",
+  "slug": "/administer/tutorials/domains/dns_subdomains",
+  "permalink": "/fr/administer/tutorials/domains/dns_subdomains",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/45.tutorials/05.domains/dns_subdomains.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "DNS and subdomains for the applications"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Nohost.me domains",
+    "permalink": "/fr/administer/tutorials/domains/dns_nohost_me"
+  },
+  "next": {
+    "title": "Theme the portal",
+    "permalink": "/fr/administer/tutorials/theming"
+  }
+}

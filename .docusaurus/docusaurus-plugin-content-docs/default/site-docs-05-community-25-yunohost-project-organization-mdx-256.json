@@ -1,0 +1,27 @@
+{
+  "id": "community/yunohost_project_organization",
+  "title": "Project organisation",
+  "description": "{/ TODO 'https://github.com/YunoHost/project-organization/' /}",
+  "source": "@site/docs/05.community/25.yunohost_project_organization.mdx",
+  "sourceDirName": "05.community",
+  "slug": "/community/yunohost_project_organization",
+  "permalink": "/fr/community/yunohost_project_organization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/05.community/25.yunohost_project_organization.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "title": "Project organisation"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/fr/community/faq"
+  },
+  "next": {
+    "title": "Sponsors and partners",
+    "permalink": "/fr/community/sponsors_partners"
+  }
+}

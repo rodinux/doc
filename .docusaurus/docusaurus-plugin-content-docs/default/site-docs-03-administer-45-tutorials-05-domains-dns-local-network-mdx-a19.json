@@ -1,0 +1,26 @@
+{
+  "id": "administer/tutorials/domains/dns_local_network",
+  "title": "Local network access to your server",
+  "description": "After completing your server installation, it is possible that your domain will not be accessible through the local network. This is an issue known as hairpinning - a feature that is not well supported by some internet routers.",
+  "source": "@site/docs/03.administer/45.tutorials/05.domains/dns_local_network.mdx",
+  "sourceDirName": "03.administer/45.tutorials/05.domains",
+  "slug": "/administer/tutorials/domains/dns_local_network",
+  "permalink": "/fr/administer/tutorials/domains/dns_local_network",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/45.tutorials/05.domains/dns_local_network.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Local network access to your server"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "DNS with a dynamic IP",
+    "permalink": "/fr/administer/tutorials/domains/dns_dynamicip"
+  },
+  "next": {
+    "title": "Nohost.me domains",
+    "permalink": "/fr/administer/tutorials/domains/dns_nohost_me"
+  }
+}

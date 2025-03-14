@@ -1,0 +1,27 @@
+{
+  "id": "administer/admin_guide/email",
+  "title": "Emails",
+  "description": "YunoHost comes with a complete mail stack allowing you to host your own email server, and therefore to have your own email addresses in something@your.domain.tld.",
+  "source": "@site/docs/03.administer/15.admin_guide/45.email.mdx",
+  "sourceDirName": "03.administer/15.admin_guide",
+  "slug": "/administer/admin_guide/email",
+  "permalink": "/fr/administer/admin_guide/email",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/15.admin_guide/45.email.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 45,
+  "frontMatter": {
+    "title": "Emails"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Installing \"custom\" apps",
+    "permalink": "/fr/administer/admin_guide/apps/custom_apps"
+  },
+  "next": {
+    "title": "Upgrades",
+    "permalink": "/fr/administer/admin_guide/upgrade/"
+  }
+}

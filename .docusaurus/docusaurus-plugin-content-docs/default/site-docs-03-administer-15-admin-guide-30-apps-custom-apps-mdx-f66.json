@@ -1,0 +1,26 @@
+{
+  "id": "administer/admin_guide/apps/custom_apps",
+  "title": "Installing \"custom\" apps",
+  "description": "While YunoHost has many apps available in the catalog, you may want to install apps that are not available in the official catalog, or setup your very own website that you crafted using HTML / CSS / PHP ..",
+  "source": "@site/docs/03.administer/15.admin_guide/30.apps/custom_apps.mdx",
+  "sourceDirName": "03.administer/15.admin_guide/30.apps",
+  "slug": "/administer/admin_guide/apps/custom_apps",
+  "permalink": "/fr/administer/admin_guide/apps/custom_apps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/15.admin_guide/30.apps/custom_apps.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Installing \"custom\" apps"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Applications",
+    "permalink": "/fr/administer/admin_guide/apps/"
+  },
+  "next": {
+    "title": "Emails",
+    "permalink": "/fr/administer/admin_guide/email"
+  }
+}

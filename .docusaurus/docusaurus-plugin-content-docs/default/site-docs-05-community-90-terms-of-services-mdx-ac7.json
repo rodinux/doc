@@ -1,0 +1,27 @@
+{
+  "id": "community/terms_of_services",
+  "title": "General and Specific Conditions of Services operated by the YunoHost project",
+  "description": "01/02/2024",
+  "source": "@site/docs/05.community/90.terms_of_services.mdx",
+  "sourceDirName": "05.community",
+  "slug": "/community/terms_of_services",
+  "permalink": "/fr/community/terms_of_services",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/05.community/90.terms_of_services.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 90,
+  "frontMatter": {
+    "title": "General and Specific Conditions of Services operated by the YunoHost project"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Creating a CHATONS with YunoHost",
+    "permalink": "/fr/community/chatons"
+  },
+  "next": {
+    "title": "Contribute",
+    "permalink": "/fr/contribute/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "administer/tutorials/security",
+  "title": "Security",
+  "description": "YunoHost has been developed to provide the best security without too much complication. Every protocol used in YunoHost is encrypted, only a password's hashes are stored and by default each user is able to access their personal directory only.",
+  "source": "@site/docs/03.administer/45.tutorials/60.security.md",
+  "sourceDirName": "03.administer/45.tutorials",
+  "slug": "/administer/tutorials/security",
+  "permalink": "/fr/administer/tutorials/security",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/45.tutorials/60.security.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 60,
+  "frontMatter": {
+    "title": "Security"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Move apps storage",
+    "permalink": "/fr/administer/tutorials/moving_app_folder"
+  },
+  "next": {
+    "title": "Access apps via SFTP",
+    "permalink": "/fr/administer/tutorials/sftp_on_apps"
+  }
+}

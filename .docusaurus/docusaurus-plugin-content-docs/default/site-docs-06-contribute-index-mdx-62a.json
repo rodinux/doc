@@ -1,0 +1,27 @@
+{
+  "id": "contribute/index",
+  "title": "Contribute to YunoHost",
+  "description": "YunoHost depends exclusively on the participation of people like you.",
+  "source": "@site/docs/06.contribute/index.mdx",
+  "sourceDirName": "06.contribute",
+  "slug": "/contribute/",
+  "permalink": "/fr/contribute/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Contribute",
+    "title": "Contribute to YunoHost"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "General and Specific Conditions of Services operated by the YunoHost project",
+    "permalink": "/fr/community/terms_of_services"
+  },
+  "next": {
+    "title": "Write documentation",
+    "permalink": "/fr/contribute/write_documentation/"
+  }
+}

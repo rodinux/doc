@@ -1,0 +1,486 @@
+{
+  "/fr/__docusaurus/debug-40a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---fr-docusaurus-debugb-38-1b9"
+    }
+  },
+  "/fr/__docusaurus/debug/config-c9c": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---fr-docusaurus-debugb-38-1b9"
+    }
+  },
+  "/fr/__docusaurus/debug/content-525": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---fr-docusaurus-debugb-38-1b9"
+    },
+    "__props": "__props---fr-docusaurus-debug-contentd-80-f53"
+  },
+  "/fr/__docusaurus/debug/globalData-200": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---fr-docusaurus-debugb-38-1b9"
+    }
+  },
+  "/fr/__docusaurus/debug/metadata-9f0": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---fr-docusaurus-debugb-38-1b9"
+    }
+  },
+  "/fr/__docusaurus/debug/registry-587": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---fr-docusaurus-debugb-38-1b9"
+    }
+  },
+  "/fr/__docusaurus/debug/routes-41a": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---fr-docusaurus-debugb-38-1b9"
+    }
+  },
+  "/fr/-0d4": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---fr-aba-934"
+    }
+  },
+  "/fr/-b71": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---fr-72-d-964"
+  },
+  "/fr/-08b": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/fr/administer/admin_guide/-9fc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-336-edf"
+  },
+  "/fr/administer/admin_guide/admin-b13": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-admin-662-466"
+  },
+  "/fr/administer/admin_guide/apps/-6a2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-apps-6-d-7-1c0"
+  },
+  "/fr/administer/admin_guide/apps/custom_apps-9a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-apps-custom-appsf-66-d66"
+  },
+  "/fr/administer/admin_guide/command_line-fce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-command-line-2-df-6fd"
+  },
+  "/fr/administer/admin_guide/domains/-02b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-domains-2-bb-c17"
+  },
+  "/fr/administer/admin_guide/domains/certificate-d25": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-domains-certificatef-26-23f"
+  },
+  "/fr/administer/admin_guide/email-00d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-email-67-a-b60"
+  },
+  "/fr/administer/admin_guide/guidelines-9c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-guidelinesd-01-ef3"
+  },
+  "/fr/administer/admin_guide/upgrade/-ef9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-upgrade-adc-091"
+  },
+  "/fr/administer/admin_guide/upgrade/bullseye_bookworm/-617": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-upgrade-bullseye-bookworm-e-33-102"
+  },
+  "/fr/administer/admin_guide/upgrade/bullseye_bookworm/issues_faq/-c2b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-upgrade-bullseye-bookworm-issues-faq-5-b-3-040"
+  },
+  "/fr/administer/admin_guide/upgrade/buster_bullseye_migration-190": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-upgrade-buster-bullseye-migrationdf-5-26f"
+  },
+  "/fr/administer/admin_guide/users/-10b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-users-61-d-257"
+  },
+  "/fr/administer/admin_guide/users/groups_and_permissions-1b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-admin-guide-users-groups-and-permissionsf-5-e-cf3"
+  },
+  "/fr/administer/backups/-7be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-backups-65-e-6c0"
+  },
+  "/fr/administer/backups/avoid_hardware_failure-63a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-backups-avoid-hardware-failure-3-f-1-18a"
+  },
+  "/fr/administer/backups/backup_methods-6ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-backups-backup-methods-371-069"
+  },
+  "/fr/administer/backups/clone_filesystem-461": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-backups-clone-filesystem-2-bd-1d0"
+  },
+  "/fr/administer/backups/custom_backup_methods-85e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-backups-custom-backup-methods-283-246"
+  },
+  "/fr/administer/backups/evaluate-2e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-backups-evaluate-7-ed-5bc"
+  },
+  "/fr/administer/backups/include_exclude_files-4e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-backups-include-exclude-filesb-39-bec"
+  },
+  "/fr/administer/backups/migrate_or_merge_servers-750": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-backups-migrate-or-merge-serversfea-ad9"
+  },
+  "/fr/administer/troubleshooting/-5e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-troubleshooting-bed-6c0"
+  },
+  "/fr/administer/troubleshooting/blacklist_forms-78c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-troubleshooting-blacklist-forms-2-fe-ad5"
+  },
+  "/fr/administer/troubleshooting/change_admin_password-65d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-troubleshooting-change-admin-password-9-dc-37a"
+  },
+  "/fr/administer/troubleshooting/cleanup-81c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-troubleshooting-cleanup-4-c-6-e21"
+  },
+  "/fr/administer/troubleshooting/fail2ban-c95": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-troubleshooting-fail-2-ban-795-9c1"
+  },
+  "/fr/administer/troubleshooting/ipv6-bf3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-troubleshooting-ipv-6-ff-1-17f"
+  },
+  "/fr/administer/troubleshooting/noaccess-308": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-troubleshooting-noaccessf-1-e-ff1"
+  },
+  "/fr/administer/tutorials/certificate_custom-17c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-certificate-custom-8-c-7-5a2"
+  },
+  "/fr/administer/tutorials/domains/dns_dynamicip-4d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-domains-dns-dynamicip-6-c-4-c69"
+  },
+  "/fr/administer/tutorials/domains/dns_local_network-ea9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-domains-dns-local-networka-19-4d9"
+  },
+  "/fr/administer/tutorials/domains/dns_nohost_me-986": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-domains-dns-nohost-me-7-a-7-14c"
+  },
+  "/fr/administer/tutorials/domains/dns_subdomains-9b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-domains-dns-subdomains-868-55c"
+  },
+  "/fr/administer/tutorials/email_configure_relay-cf2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-email-configure-relay-209-928"
+  },
+  "/fr/administer/tutorials/external_storage-70f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-external-storage-7-bf-34f"
+  },
+  "/fr/administer/tutorials/filezilla-7f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-filezilla-526-e4c"
+  },
+  "/fr/administer/tutorials/moving_app_folder-b70": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-moving-app-folderd-22-f0d"
+  },
+  "/fr/administer/tutorials/security-0b1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-security-155-85b"
+  },
+  "/fr/administer/tutorials/sftp_on_apps-a86": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-sftp-on-apps-767-89e"
+  },
+  "/fr/administer/tutorials/theming-eea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-theming-726-362"
+  },
+  "/fr/administer/tutorials/torhiddenservice-16e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-administer-tutorials-torhiddenservice-2-bf-1f8"
+  },
+  "/fr/category/administration-guide-c60": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---fr-category-administration-guide-95-b-54a"
+  },
+  "/fr/category/advanced-93c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---fr-category-advanced-789-b88"
+  },
+  "/fr/category/backups-ac9": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---fr-category-backups-763-da4"
+  },
+  "/fr/category/community-17b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---fr-category-community-7-bc-2f4"
+  },
+  "/fr/category/domains-8c9": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---fr-category-domains-8-cc-627"
+  },
+  "/fr/category/misc-resources-efc": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---fr-category-misc-resources-876-58f"
+  },
+  "/fr/category/overview-227": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---fr-category-overview-303-5b9"
+  },
+  "/fr/category/providers-abc": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---fr-category-providers-19-e-8bf"
+  },
+  "/fr/category/tutorials-e7f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---fr-category-tutorials-824-597"
+  },
+  "/fr/community/asking_for_help_efficiently-59d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-community-asking-for-help-efficientlyac-7-5f1"
+  },
+  "/fr/community/chat_rooms-ed5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-community-chat-rooms-0-f-9-f91"
+  },
+  "/fr/community/chatons-5cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-community-chatonscae-79d"
+  },
+  "/fr/community/faq-2a4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-community-faqc-70-73e"
+  },
+  "/fr/community/forum-bff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-community-forumfa-4-baa"
+  },
+  "/fr/community/help-3ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-community-help-438-5a8"
+  },
+  "/fr/community/press_kit-a9e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-community-press-kit-43-d-a04"
+  },
+  "/fr/community/project_budget-863": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-community-project-budgetf-44-291"
+  },
+  "/fr/community/security_team-184": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-community-security-team-86-e-2b1"
+  },
+  "/fr/community/sponsors_partners-124": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-community-sponsors-partners-337-de5"
+  },
+  "/fr/community/terms_of_services-f57": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-community-terms-of-servicesac-7-3e9"
+  },
+  "/fr/community/yunohost_project_organization-107": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-community-yunohost-project-organization-256-e24"
+  },
+  "/fr/contribute/-480": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-62-a-f02"
+  },
+  "/fr/contribute/dev/-744": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-dev-3-b-7-98a"
+  },
+  "/fr/contribute/dev/forms-821": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-dev-forms-7-d-4-4de"
+  },
+  "/fr/contribute/dev/maindomain-09e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-dev-maindomain-4-e-5-293"
+  },
+  "/fr/contribute/packaging_apps/-4cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-139-af7"
+  },
+  "/fr/contribute/packaging_apps/advanced/advanced_packagers-58e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-advanced-advanced-packagersf-1-a-75d"
+  },
+  "/fr/contribute/packaging_apps/advanced/config_panels-2d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-advanced-config-panels-015-1d0"
+  },
+  "/fr/contribute/packaging_apps/advanced/packaging_apps_hooks-b27": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-advanced-packaging-apps-hooksc-8-e-35e"
+  },
+  "/fr/contribute/packaging_apps/advanced/packaging_v2-72a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-advanced-packaging-v-28-b-0-923"
+  },
+  "/fr/contribute/packaging_apps/advanced/sso_ldap_integration-089": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-advanced-sso-ldap-integration-877-254"
+  },
+  "/fr/contribute/packaging_apps/doc-7dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-doc-00-f-351"
+  },
+  "/fr/contribute/packaging_apps/manifest/-293": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-manifest-247-726"
+  },
+  "/fr/contribute/packaging_apps/manifest/app_resources-49c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-manifest-app-resourcesbda-1d1"
+  },
+  "/fr/contribute/packaging_apps/policy-6f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-policyabd-b0d"
+  },
+  "/fr/contribute/packaging_apps/publishing-380": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-publishing-2-cf-af1"
+  },
+  "/fr/contribute/packaging_apps/resources/packaging_apps_git-d34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-resources-packaging-apps-gite-85-08a"
+  },
+  "/fr/contribute/packaging_apps/resources/packaging_apps_virtualbox-7da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-resources-packaging-apps-virtualbox-92-b-10f"
+  },
+  "/fr/contribute/packaging_apps/scripts/-f07": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-scripts-25-f-13a"
+  },
+  "/fr/contribute/packaging_apps/scripts/packaging_app_scripts_helpers-3ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-scripts-packaging-app-scripts-helpers-5-a-9-325"
+  },
+  "/fr/contribute/packaging_apps/scripts/packaging_app_scripts_helpers_v21-08a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-scripts-packaging-app-scripts-helpers-v-21-aa-0-2ab"
+  },
+  "/fr/contribute/packaging_apps/scripts/shell_variables_scope-d49": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-scripts-shell-variables-scope-769-002"
+  },
+  "/fr/contribute/packaging_apps/testing-ef6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-packaging-apps-testing-560-5a1"
+  },
+  "/fr/contribute/write_documentation/-c1e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-write-documentation-092-56f"
+  },
+  "/fr/contribute/write_documentation/apps_documentation-2c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-write-documentation-apps-documentation-527-ae5"
+  },
+  "/fr/contribute/write_documentation/git-348": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-write-documentation-git-694-263"
+  },
+  "/fr/contribute/write_documentation/markdown_guide-1c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-contribute-write-documentation-markdown-guidec-88-6d7"
+  },
+  "/fr/install/-48c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-install-24-c-6a8"
+  },
+  "/fr/install/providers/isp/-b8b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-install-providers-isp-f-26-fac"
+  },
+  "/fr/install/providers/registrar/-f05": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-install-providers-registrar-de-1-910"
+  },
+  "/fr/install/providers/registrar/gandi-93e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-install-providers-registrar-gandid-7-c-feb"
+  },
+  "/fr/install/providers/registrar/namecheap-628": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-install-providers-registrar-namecheap-459-7cc"
+  },
+  "/fr/install/providers/registrar/ovh/autodns-47d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-install-providers-registrar-ovh-autodnsdc-2-0bf"
+  },
+  "/fr/install/providers/registrar/ovh/manualdns-ce5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-install-providers-registrar-ovh-manualdns-758-c93"
+  },
+  "/fr/install/providers/servers-fca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-install-providers-servers-52-e-307"
+  },
+  "/fr/install/providers/vpn/-6fc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-install-providers-vpn-0-f-0-7b8"
+  },
+  "/fr/install/providers/vpn/vpn_advantage-da0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-install-providers-vpn-vpn-advantage-7-a-3-d1f"
+  },
+  "/fr/overview/self_hosting-b25": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-overview-self-hosting-6-cf-fe5"
+  },
+  "/fr/overview/try_yunohost-39e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-overview-try-yunohost-774-74c"
+  },
+  "/fr/overview/what_is_yunohost-cbc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-overview-what-is-yunohostf-08-727"
+  },
+  "/fr/user_guide/-77c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-user-guide-d-4-a-602"
+  },
+  "/fr/user_guide/email_configure_client-671": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-user-guide-email-configure-client-86-a-ca0"
+  },
+  "/fr/user_guide/email_migration-182": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-user-guide-email-migration-4-fa-761"
+  },
+  "/fr/-cf4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fr-4-ed-e17"
+  }
+}

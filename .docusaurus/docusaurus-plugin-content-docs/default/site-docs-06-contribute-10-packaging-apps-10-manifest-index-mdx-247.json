@@ -1,0 +1,27 @@
+{
+  "id": "contribute/packaging_apps/manifest/index",
+  "title": "Writing the app manifest",
+  "description": "The app's manifest.toml can be seen as the ID card of the app. It declares various basic metadata such as the id, name, description of the app, its version, install questions to be asked to the admin prior to installation, etc.",
+  "source": "@site/docs/06.contribute/10.packaging_apps/10.manifest/index.mdx",
+  "sourceDirName": "06.contribute/10.packaging_apps/10.manifest",
+  "slug": "/contribute/packaging_apps/manifest/",
+  "permalink": "/fr/contribute/packaging_apps/manifest/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/10.manifest/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Writing the app manifest",
+    "sidebarCollapsed": false
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Packaging applications",
+    "permalink": "/fr/contribute/packaging_apps/"
+  },
+  "next": {
+    "title": "App resources",
+    "permalink": "/fr/contribute/packaging_apps/manifest/app_resources"
+  }
+}

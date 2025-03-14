@@ -1,0 +1,27 @@
+{
+  "id": "administer/backups/avoid_hardware_failure",
+  "title": "Avoid hardware failure",
+  "description": "Physically secure your server",
+  "source": "@site/docs/03.administer/20.backups/20.avoid_hardware_failure.md",
+  "sourceDirName": "03.administer/20.backups",
+  "slug": "/administer/backups/avoid_hardware_failure",
+  "permalink": "/fr/administer/backups/avoid_hardware_failure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/20.backups/20.avoid_hardware_failure.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "title": "Avoid hardware failure"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Snapshotting the entire filesystem",
+    "permalink": "/fr/administer/backups/clone_filesystem"
+  },
+  "next": {
+    "title": "Include or exclude files",
+    "permalink": "/fr/administer/backups/include_exclude_files"
+  }
+}

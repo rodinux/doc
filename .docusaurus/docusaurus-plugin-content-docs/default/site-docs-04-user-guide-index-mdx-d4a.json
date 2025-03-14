@@ -1,0 +1,27 @@
+{
+  "id": "user_guide/index",
+  "title": "User guide",
+  "description": "This section is being worked on.",
+  "source": "@site/docs/04.user_guide/index.mdx",
+  "sourceDirName": "04.user_guide",
+  "slug": "/user_guide/",
+  "permalink": "/fr/user_guide/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/04.user_guide/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "User guide",
+    "menu": "User guide"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Unblacklisting forms",
+    "permalink": "/fr/administer/troubleshooting/blacklist_forms"
+  },
+  "next": {
+    "title": "Configure email clients",
+    "permalink": "/fr/user_guide/email_configure_client"
+  }
+}

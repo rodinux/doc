@@ -1,0 +1,27 @@
+{
+  "id": "administer/backups/custom_backup_methods",
+  "title": "Custom backup methods",
+  "description": "It is possible to create your own backup method and link it to YunoHost's backup file collection system. This can be useful if you want to use your own backup software or conduct disk mount/dismount operations for example.",
+  "source": "@site/docs/03.administer/20.backups/30.custom_backup_methods.md",
+  "sourceDirName": "03.administer/20.backups",
+  "slug": "/administer/backups/custom_backup_methods",
+  "permalink": "/fr/administer/backups/custom_backup_methods",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/20.backups/30.custom_backup_methods.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "title": "Custom backup methods"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Include or exclude files",
+    "permalink": "/fr/administer/backups/include_exclude_files"
+  },
+  "next": {
+    "title": "Migrate or merge servers",
+    "permalink": "/fr/administer/backups/migrate_or_merge_servers"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "contribute/packaging_apps/testing",
+  "title": "Testing your app",
+  "description": "Once you're done writing you app package, you'll want to check that everything works correctly. At first, you can manually try to install your app on some test server of your own : sudo yunohost app install ./path/to/mycustomapp_ynh",
+  "source": "@site/docs/06.contribute/10.packaging_apps/40.testing.mdx",
+  "sourceDirName": "06.contribute/10.packaging_apps",
+  "slug": "/contribute/packaging_apps/testing",
+  "permalink": "/fr/contribute/packaging_apps/testing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/40.testing.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "title": "Testing your app"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Adding documentation to your app",
+    "permalink": "/fr/contribute/packaging_apps/doc"
+  },
+  "next": {
+    "title": "Publishing your app on the catalog",
+    "permalink": "/fr/contribute/packaging_apps/publishing"
+  }
+}

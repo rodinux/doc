@@ -1,0 +1,26 @@
+{
+  "id": "contribute/packaging_apps/resources/packaging_apps_virtualbox",
+  "title": "Create a development environment with VirtualBox",
+  "description": "This documentation page aims at explaining how to setup a YunoHost virtual server, using VirtualBox, to work on application packaging.",
+  "source": "@site/docs/06.contribute/10.packaging_apps/80.resources/packaging_apps_virtualbox.md",
+  "sourceDirName": "06.contribute/10.packaging_apps/80.resources",
+  "slug": "/contribute/packaging_apps/resources/packaging_apps_virtualbox",
+  "permalink": "/fr/contribute/packaging_apps/resources/packaging_apps_virtualbox",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/80.resources/packaging_apps_virtualbox.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Create a development environment with VirtualBox"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Use Git to package apps",
+    "permalink": "/fr/contribute/packaging_apps/resources/packaging_apps_git"
+  },
+  "next": {
+    "title": "Apps catalog policy",
+    "permalink": "/fr/contribute/packaging_apps/policy"
+  }
+}

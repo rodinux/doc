@@ -1,0 +1,27 @@
+{
+  "id": "administer/admin_guide/upgrade/buster_bullseye_migration",
+  "title": "Migrating from 4.x to 11.x",
+  "description": "This page is dedicated to help you migrating an instance from YunoHost 4.4.x (running on Debian Buster/10.x) to YunoHost 11.x (running on Debian Bullseye/11.x). Note: we decided to skip the version numbers from 5 to 10 to follow the Debian version numbers.",
+  "source": "@site/docs/03.administer/15.admin_guide/55.upgrade/11.buster_bullseye_migration.md",
+  "sourceDirName": "03.administer/15.admin_guide/55.upgrade",
+  "slug": "/administer/admin_guide/upgrade/buster_bullseye_migration",
+  "permalink": "/fr/administer/admin_guide/upgrade/buster_bullseye_migration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/15.admin_guide/55.upgrade/11.buster_bullseye_migration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "Migrating from 4.x to 11.x"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Upgrades",
+    "permalink": "/fr/administer/admin_guide/upgrade/"
+  },
+  "next": {
+    "title": "Migrating from 11.x to 12.x",
+    "permalink": "/fr/administer/admin_guide/upgrade/bullseye_bookworm/"
+  }
+}

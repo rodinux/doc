@@ -1,0 +1,27 @@
+{
+  "id": "community/chat_rooms",
+  "title": "Chat rooms",
+  "description": "Among other communication tools, YunoHost project use chat rooms to communicate.",
+  "source": "@site/docs/05.community/10.chat_rooms.md",
+  "sourceDirName": "05.community",
+  "slug": "/community/chat_rooms",
+  "permalink": "/fr/community/chat_rooms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/05.community/10.chat_rooms.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Chat rooms"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Forum",
+    "permalink": "/fr/community/forum"
+  },
+  "next": {
+    "title": "Asking for help efficiently",
+    "permalink": "/fr/community/asking_for_help_efficiently"
+  }
+}

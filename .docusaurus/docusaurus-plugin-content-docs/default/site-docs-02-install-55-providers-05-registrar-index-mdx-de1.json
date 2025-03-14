@@ -1,0 +1,29 @@
+{
+  "id": "install/providers/registrar/index",
+  "title": "Registrars",
+  "description": "Since version 4.3, YunoHost includes a mechanism to interface your server with your DNS registrar API, with the purpose of simplifying and automatizing DNS records registration and maintenance.",
+  "source": "@site/docs/02.install/55.providers/05.registrar/index.mdx",
+  "sourceDirName": "02.install/55.providers/05.registrar",
+  "slug": "/install/providers/registrar/",
+  "permalink": "/fr/install/providers/registrar/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/02.install/55.providers/05.registrar/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Registrars",
+    "link": {
+      "description": "The guys that provide the domain name"
+    }
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Providers",
+    "permalink": "/fr/category/providers"
+  },
+  "next": {
+    "title": "Gandi",
+    "permalink": "/fr/install/providers/registrar/gandi"
+  }
+}

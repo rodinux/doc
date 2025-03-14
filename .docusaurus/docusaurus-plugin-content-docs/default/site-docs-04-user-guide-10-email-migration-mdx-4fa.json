@@ -1,0 +1,27 @@
+{
+  "id": "user_guide/email_migration",
+  "title": "Migrating email from an email provider to a YunoHost instance",
+  "description": "Documentation linked to YunoHost email.",
+  "source": "@site/docs/04.user_guide/10.email_migration.mdx",
+  "sourceDirName": "04.user_guide",
+  "slug": "/user_guide/email_migration",
+  "permalink": "/fr/user_guide/email_migration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/04.user_guide/10.email_migration.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Migrating email from an email provider to a YunoHost instance"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Configure email clients",
+    "permalink": "/fr/user_guide/email_configure_client"
+  },
+  "next": {
+    "title": "Community",
+    "permalink": "/fr/category/community"
+  }
+}

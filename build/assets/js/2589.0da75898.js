@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyunohost_docs=self.webpackChunkyunohost_docs||[]).push([[2589],{2589:(s,o,u)=>{u.r(o)}}]);

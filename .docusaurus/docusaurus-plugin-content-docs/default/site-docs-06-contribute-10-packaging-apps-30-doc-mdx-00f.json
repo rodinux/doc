@@ -1,0 +1,27 @@
+{
+  "id": "contribute/packaging_apps/doc",
+  "title": "Adding documentation to your app",
+  "description": "Properly documenting your app is important for user experience ;).",
+  "source": "@site/docs/06.contribute/10.packaging_apps/30.doc.mdx",
+  "sourceDirName": "06.contribute/10.packaging_apps",
+  "slug": "/contribute/packaging_apps/doc",
+  "permalink": "/fr/contribute/packaging_apps/doc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/30.doc.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "title": "Adding documentation to your app"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "App helpers (v2.1)",
+    "permalink": "/fr/contribute/packaging_apps/scripts/packaging_app_scripts_helpers_v21"
+  },
+  "next": {
+    "title": "Testing your app",
+    "permalink": "/fr/contribute/packaging_apps/testing"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "administer/admin_guide/upgrade/bullseye_bookworm/issues_faq/issues_faq",
+  "title": "Migration isues FAQ",
+  "description": "This page lists all the known issues encountered after a migration from YunoHost 11 to 12.",
+  "source": "@site/docs/03.administer/15.admin_guide/55.upgrade/12.bullseye_bookworm/05.issues_faq/05.issues_faq.md",
+  "sourceDirName": "03.administer/15.admin_guide/55.upgrade/12.bullseye_bookworm/05.issues_faq",
+  "slug": "/administer/admin_guide/upgrade/bullseye_bookworm/issues_faq/",
+  "permalink": "/fr/administer/admin_guide/upgrade/bullseye_bookworm/issues_faq/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/15.admin_guide/55.upgrade/12.bullseye_bookworm/05.issues_faq/05.issues_faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Migration isues FAQ"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Migrating from 11.x to 12.x",
+    "permalink": "/fr/administer/admin_guide/upgrade/bullseye_bookworm/"
+  },
+  "next": {
+    "title": "Backups",
+    "permalink": "/fr/category/backups"
+  }
+}

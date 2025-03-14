@@ -1,0 +1,26 @@
+{
+  "id": "administer/admin_guide/domains/certificate",
+  "title": "Certificate",
+  "description": "Certificates are used to guarantee the confidentiality and authenticity of the communication between a web browser and your server. In particular, they protect against attackers trying to impersonate your server.",
+  "source": "@site/docs/03.administer/15.admin_guide/25.domains/certificate.mdx",
+  "sourceDirName": "03.administer/15.admin_guide/25.domains",
+  "slug": "/administer/admin_guide/domains/certificate",
+  "permalink": "/fr/administer/admin_guide/domains/certificate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/15.admin_guide/25.domains/certificate.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Certificate"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Domains",
+    "permalink": "/fr/administer/admin_guide/domains/"
+  },
+  "next": {
+    "title": "Applications",
+    "permalink": "/fr/administer/admin_guide/apps/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "community/press_kit",
+  "title": "Communication",
+  "description": "{/*",
+  "source": "@site/docs/05.community/40.press_kit.mdx",
+  "sourceDirName": "05.community",
+  "slug": "/community/press_kit",
+  "permalink": "/fr/community/press_kit",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/05.community/40.press_kit.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "title": "Communication"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Security team",
+    "permalink": "/fr/community/security_team"
+  },
+  "next": {
+    "title": "Creating a CHATONS with YunoHost",
+    "permalink": "/fr/community/chatons"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "community/forum",
+  "title": "Forum",
+  "description": "{/ TODO: Redirect to forum /}",
+  "source": "@site/docs/05.community/05.forum.mdx",
+  "sourceDirName": "05.community",
+  "slug": "/community/forum",
+  "permalink": "/fr/community/forum",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/05.community/05.forum.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Forum"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Community",
+    "permalink": "/fr/category/community"
+  },
+  "next": {
+    "title": "Chat rooms",
+    "permalink": "/fr/community/chat_rooms"
+  }
+}

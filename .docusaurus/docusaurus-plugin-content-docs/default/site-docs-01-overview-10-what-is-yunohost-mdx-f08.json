@@ -1,0 +1,28 @@
+{
+  "id": "overview/what_is_yunohost",
+  "title": "What is YunoHost?",
+  "description": " ",
+  "source": "@site/docs/01.overview/10.what_is_yunohost.mdx",
+  "sourceDirName": "01.overview",
+  "slug": "/overview/what_is_yunohost",
+  "permalink": "/fr/overview/what_is_yunohost",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/01.overview/10.what_is_yunohost.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "What is YunoHost?",
+    "description": " "
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Self-hosting",
+    "permalink": "/fr/overview/self_hosting"
+  },
+  "next": {
+    "title": "Try YunoHost",
+    "permalink": "/fr/overview/try_yunohost"
+  }
+}

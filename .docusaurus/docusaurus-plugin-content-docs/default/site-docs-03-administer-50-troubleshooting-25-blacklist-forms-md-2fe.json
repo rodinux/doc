@@ -1,0 +1,27 @@
+{
+  "id": "administer/troubleshooting/blacklist_forms",
+  "title": "Unblacklisting forms",
+  "description": "It could happen sometimes that your IP is blacklisted by some email provider, or anti-spam services. If you receive an alert from the diagnosis tool, click on details to find the unblocking forms.",
+  "source": "@site/docs/03.administer/50.troubleshooting/25.blacklist_forms.md",
+  "sourceDirName": "03.administer/50.troubleshooting",
+  "slug": "/administer/troubleshooting/blacklist_forms",
+  "permalink": "/fr/administer/troubleshooting/blacklist_forms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/50.troubleshooting/25.blacklist_forms.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "title": "Unblacklisting forms"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Setting up IPv6",
+    "permalink": "/fr/administer/troubleshooting/ipv6"
+  },
+  "next": {
+    "title": "User guide",
+    "permalink": "/fr/user_guide/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "contribute/write_documentation/apps_documentation",
+  "title": "Guide to writing application documentation",
+  "description": "{/ TODO: revamp this, none of this is relevant anymore /}",
+  "source": "@site/docs/06.contribute/05.write_documentation/01.apps_documentation.mdx",
+  "sourceDirName": "06.contribute/05.write_documentation",
+  "slug": "/contribute/write_documentation/apps_documentation",
+  "permalink": "/fr/contribute/write_documentation/apps_documentation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/05.write_documentation/01.apps_documentation.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Applications documentation",
+    "title": "Guide to writing application documentation"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Write documentation",
+    "permalink": "/fr/contribute/write_documentation/"
+  },
+  "next": {
+    "title": "Markdown Guide",
+    "permalink": "/fr/contribute/write_documentation/markdown_guide"
+  }
+}

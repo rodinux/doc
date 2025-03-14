@@ -1,0 +1,27 @@
+{
+  "id": "administer/backups/clone_filesystem",
+  "title": "Snapshotting the entire filesystem",
+  "description": "YunoHost's backup tool only backs up useful files and relies on restore scripts to reinstall the dependencies of your applications. In other words, YunoHost's mechanism amounts to reinstalling and then reincorporating the data.",
+  "source": "@site/docs/03.administer/20.backups/15.clone_filesystem.mdx",
+  "sourceDirName": "03.administer/20.backups",
+  "slug": "/administer/backups/clone_filesystem",
+  "permalink": "/fr/administer/backups/clone_filesystem",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/20.backups/15.clone_filesystem.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "title": "Snapshotting the entire filesystem"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Backup methods",
+    "permalink": "/fr/administer/backups/backup_methods"
+  },
+  "next": {
+    "title": "Avoid hardware failure",
+    "permalink": "/fr/administer/backups/avoid_hardware_failure"
+  }
+}

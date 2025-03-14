@@ -1,0 +1,27 @@
+{
+  "id": "administer/troubleshooting/cleanup",
+  "title": "Cleanup",
+  "description": "These are a few guidelines on how to perform some cleanup on the server, for instance when storage space becomes a bit short.",
+  "source": "@site/docs/03.administer/50.troubleshooting/03.cleanup.md",
+  "sourceDirName": "03.administer/50.troubleshooting",
+  "slug": "/administer/troubleshooting/cleanup",
+  "permalink": "/fr/administer/troubleshooting/cleanup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/50.troubleshooting/03.cleanup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Cleanup"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/fr/administer/troubleshooting/"
+  },
+  "next": {
+    "title": "IP address unban",
+    "permalink": "/fr/administer/troubleshooting/fail2ban"
+  }
+}

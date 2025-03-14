@@ -1,0 +1,27 @@
+{
+  "id": "administer/backups/migrate_or_merge_servers",
+  "title": "Migrate or merge servers",
+  "description": "Migrate a server",
+  "source": "@site/docs/03.administer/20.backups/35.migrate_or_merge_servers.md",
+  "sourceDirName": "03.administer/20.backups",
+  "slug": "/administer/backups/migrate_or_merge_servers",
+  "permalink": "/fr/administer/backups/migrate_or_merge_servers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/20.backups/35.migrate_or_merge_servers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 35,
+  "frontMatter": {
+    "title": "Migrate or merge servers"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Custom backup methods",
+    "permalink": "/fr/administer/backups/custom_backup_methods"
+  },
+  "next": {
+    "title": "Backing up your server",
+    "permalink": "/fr/administer/backups/"
+  }
+}

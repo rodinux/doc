@@ -1,0 +1,28 @@
+{
+  "id": "administer/tutorials/external_storage",
+  "title": "Adding an external storage to your server",
+  "description": "Introduction",
+  "source": "@site/docs/03.administer/45.tutorials/25.external_storage.mdx",
+  "sourceDirName": "03.administer/45.tutorials",
+  "slug": "/administer/tutorials/external_storage",
+  "permalink": "/fr/administer/tutorials/external_storage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/45.tutorials/25.external_storage.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "sidebar_label": "Add external storage",
+    "title": "Adding an external storage to your server"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Transfer files",
+    "permalink": "/fr/administer/tutorials/filezilla"
+  },
+  "next": {
+    "title": "Configure SMTP relay",
+    "permalink": "/fr/administer/tutorials/email_configure_relay"
+  }
+}

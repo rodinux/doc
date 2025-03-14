@@ -1,0 +1,27 @@
+{
+  "id": "install/providers/vpn/index",
+  "title": "VPN providers",
+  "description": "The guys that provide a private tunnel (and a public IP)",
+  "source": "@site/docs/02.install/55.providers/15.vpn/index.mdx",
+  "sourceDirName": "02.install/55.providers/15.vpn",
+  "slug": "/install/providers/vpn/",
+  "permalink": "/fr/install/providers/vpn/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/02.install/55.providers/15.vpn/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "VPN providers",
+    "description": "The guys that provide a private tunnel (and a public IP)"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Internet service providers",
+    "permalink": "/fr/install/providers/isp/"
+  },
+  "next": {
+    "title": "Advantages",
+    "permalink": "/fr/install/providers/vpn/vpn_advantage"
+  }
+}

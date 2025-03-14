@@ -1,0 +1,27 @@
+{
+  "id": "install/providers/registrar/gandi",
+  "title": "Obtaining an API key from Gandi",
+  "description": "This page is meant to guide you in obtaining an API key from Gandi in order to configure YunoHost's automatic DNS configuration mecanism",
+  "source": "@site/docs/02.install/55.providers/05.registrar/gandi.mdx",
+  "sourceDirName": "02.install/55.providers/05.registrar",
+  "slug": "/install/providers/registrar/gandi",
+  "permalink": "/fr/install/providers/registrar/gandi",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/02.install/55.providers/05.registrar/gandi.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Gandi",
+    "title": "Obtaining an API key from Gandi"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Registrars",
+    "permalink": "/fr/install/providers/registrar/"
+  },
+  "next": {
+    "title": "Namecheap",
+    "permalink": "/fr/install/providers/registrar/namecheap"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "administer/tutorials/domains/dns_dynamicip",
+  "title": "DNS with a dynamic IP",
+  "description": "Before going further, make sure your global IP address is dynamic with: ip.yunohost.org. The global IP address of your box changes almost every day.",
+  "source": "@site/docs/03.administer/45.tutorials/05.domains/dns_dynamicip.md",
+  "sourceDirName": "03.administer/45.tutorials/05.domains",
+  "slug": "/administer/tutorials/domains/dns_dynamicip",
+  "permalink": "/fr/administer/tutorials/domains/dns_dynamicip",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/45.tutorials/05.domains/dns_dynamicip.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "DNS with a dynamic IP"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Domains",
+    "permalink": "/fr/category/domains"
+  },
+  "next": {
+    "title": "Local network access to your server",
+    "permalink": "/fr/administer/tutorials/domains/dns_local_network"
+  }
+}

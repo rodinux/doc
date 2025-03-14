@@ -1,0 +1,27 @@
+{
+  "id": "administer/admin_guide/apps/apps",
+  "title": "Applications",
+  "description": "One of the key feature of YunoHost is the ability to easily install applications which are then immediately usable. Example of applications include a blog system, a \"cloud\" (to host and sync files), a website, an RSS reader...",
+  "source": "@site/docs/03.administer/15.admin_guide/30.apps/30.apps.mdx",
+  "sourceDirName": "03.administer/15.admin_guide/30.apps",
+  "slug": "/administer/admin_guide/apps/",
+  "permalink": "/fr/administer/admin_guide/apps/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/15.admin_guide/30.apps/30.apps.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "title": "Applications"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Certificate",
+    "permalink": "/fr/administer/admin_guide/domains/certificate"
+  },
+  "next": {
+    "title": "Installing \"custom\" apps",
+    "permalink": "/fr/administer/admin_guide/apps/custom_apps"
+  }
+}

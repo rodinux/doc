@@ -1,0 +1,26 @@
+{
+  "id": "administer/backups/index",
+  "title": "Backing up your server",
+  "description": "In the context of self-hosting, backups are an important element to compensate for unexpected events (fire, database corruption, loss of access to the server, compromised server...). The backup policy to implement depends on the importance of the services and data you manage. For example, backing up a test server will be of little interest, while you will want to be very careful if you are managing critical data for an association or a company - and in such cases, you will want to store the backups in a different location or locations.",
+  "source": "@site/docs/03.administer/20.backups/index.mdx",
+  "sourceDirName": "03.administer/20.backups",
+  "slug": "/administer/backups/",
+  "permalink": "/fr/administer/backups/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/20.backups/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Backing up your server"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Migrate or merge servers",
+    "permalink": "/fr/administer/backups/migrate_or_merge_servers"
+  },
+  "next": {
+    "title": "Tutorials",
+    "permalink": "/fr/category/tutorials"
+  }
+}

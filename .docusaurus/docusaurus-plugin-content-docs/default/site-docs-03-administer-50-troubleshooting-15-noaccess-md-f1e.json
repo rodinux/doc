@@ -1,0 +1,27 @@
+{
+  "id": "administer/troubleshooting/noaccess",
+  "title": "Get access back into YunoHost",
+  "description": "There are several reasons that could lead to one administrator's access being partially or completely blocked off their YunoHost server. In numerous cases, one of the access methods is blocked, but others are not.",
+  "source": "@site/docs/03.administer/50.troubleshooting/15.noaccess.md",
+  "sourceDirName": "03.administer/50.troubleshooting",
+  "slug": "/administer/troubleshooting/noaccess",
+  "permalink": "/fr/administer/troubleshooting/noaccess",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/50.troubleshooting/15.noaccess.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "title": "Get access back into YunoHost"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Changing the administration password",
+    "permalink": "/fr/administer/troubleshooting/change_admin_password"
+  },
+  "next": {
+    "title": "Setting up IPv6",
+    "permalink": "/fr/administer/troubleshooting/ipv6"
+  }
+}

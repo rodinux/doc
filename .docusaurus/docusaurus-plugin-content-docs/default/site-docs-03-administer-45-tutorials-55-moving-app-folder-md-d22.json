@@ -1,0 +1,28 @@
+{
+  "id": "administer/tutorials/moving_app_folder",
+  "title": "Moving an app folder to a different storage",
+  "description": "Applications folder are (usually) located in /var/www/$appname",
+  "source": "@site/docs/03.administer/45.tutorials/55.moving_app_folder.md",
+  "sourceDirName": "03.administer/45.tutorials",
+  "slug": "/administer/tutorials/moving_app_folder",
+  "permalink": "/fr/administer/tutorials/moving_app_folder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/45.tutorials/55.moving_app_folder.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 55,
+  "frontMatter": {
+    "sidebar_label": "Move apps storage",
+    "title": "Moving an app folder to a different storage"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Custom certificates",
+    "permalink": "/fr/administer/tutorials/certificate_custom"
+  },
+  "next": {
+    "title": "Security",
+    "permalink": "/fr/administer/tutorials/security"
+  }
+}

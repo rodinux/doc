@@ -1,0 +1,27 @@
+{
+  "id": "administer/admin_guide/guidelines",
+  "title": "Advices and guidelines",
+  "description": "This page lists some advice and guidelines which every YunoHost administrator should be aware to take care of a YunoHost server :)",
+  "source": "@site/docs/03.administer/15.admin_guide/05.guidelines.mdx",
+  "sourceDirName": "03.administer/15.admin_guide",
+  "slug": "/administer/admin_guide/guidelines",
+  "permalink": "/fr/administer/admin_guide/guidelines",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/15.admin_guide/05.guidelines.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Advices and guidelines"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Guided tour for the admin",
+    "permalink": "/fr/administer/admin_guide/"
+  },
+  "next": {
+    "title": "Administrator web interface",
+    "permalink": "/fr/administer/admin_guide/admin"
+  }
+}

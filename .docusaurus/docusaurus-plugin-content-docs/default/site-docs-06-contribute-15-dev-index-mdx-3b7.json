@@ -1,0 +1,26 @@
+{
+  "id": "contribute/dev/index",
+  "title": "Contributing to the core",
+  "description": "You wish to add a new feature in the YunoHost core, but don't know how to",
+  "source": "@site/docs/06.contribute/15.dev/index.mdx",
+  "sourceDirName": "06.contribute/15.dev",
+  "slug": "/contribute/dev/",
+  "permalink": "/fr/contribute/dev/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/15.dev/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Contributing to the core"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Apps catalog policy",
+    "permalink": "/fr/contribute/packaging_apps/policy"
+  },
+  "next": {
+    "title": "Technical details for config panel structure and form option types",
+    "permalink": "/fr/contribute/dev/forms"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "community/faq",
+  "title": "Frequently Asked Questions",
+  "description": "Under which license is YunoHost distributed?",
+  "source": "@site/docs/05.community/20.faq.md",
+  "sourceDirName": "05.community",
+  "slug": "/community/faq",
+  "permalink": "/fr/community/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/05.community/20.faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "title": "Frequently Asked Questions"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Looking for help?",
+    "permalink": "/fr/community/help"
+  },
+  "next": {
+    "title": "Project organisation",
+    "permalink": "/fr/community/yunohost_project_organization"
+  }
+}

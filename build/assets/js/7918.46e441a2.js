@@ -1,0 +1,1 @@
+(self.webpackChunkyunohost_docs=self.webpackChunkyunohost_docs||[]).push([[7918],{5741:()=>{},8974:(s,o,c)=>{"use strict";c.d(o,{A:()=>e});var u=c(8291);const e=u}}]);

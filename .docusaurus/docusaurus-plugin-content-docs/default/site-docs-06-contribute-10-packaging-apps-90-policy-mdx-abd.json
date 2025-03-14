@@ -1,0 +1,28 @@
+{
+  "id": "contribute/packaging_apps/policy",
+  "title": "YunoHost's policy regarding the apps included in the official catalog",
+  "description": "License",
+  "source": "@site/docs/06.contribute/10.packaging_apps/90.policy.mdx",
+  "sourceDirName": "06.contribute/10.packaging_apps",
+  "slug": "/contribute/packaging_apps/policy",
+  "permalink": "/fr/contribute/packaging_apps/policy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/90.policy.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 90,
+  "frontMatter": {
+    "sidebar_label": "Apps catalog policy",
+    "title": "YunoHost's policy regarding the apps included in the official catalog"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Create a development environment with VirtualBox",
+    "permalink": "/fr/contribute/packaging_apps/resources/packaging_apps_virtualbox"
+  },
+  "next": {
+    "title": "Contributing to the core",
+    "permalink": "/fr/contribute/dev/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "administer/tutorials/torhiddenservice",
+  "title": "Using YunoHost as a Tor Hidden Service",
+  "description": "This tuto is not finished ! Some data could leak with this setup like the main domain of your YunoHost, so it's not a \"Hidden Service\".",
+  "source": "@site/docs/03.administer/45.tutorials/40.torhiddenservice.md",
+  "sourceDirName": "03.administer/45.tutorials",
+  "slug": "/administer/tutorials/torhiddenservice",
+  "permalink": "/fr/administer/tutorials/torhiddenservice",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/45.tutorials/40.torhiddenservice.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "sidebar_label": "Configure Tor Hidden Service",
+    "title": "Using YunoHost as a Tor Hidden Service"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Configure SMTP relay",
+    "permalink": "/fr/administer/tutorials/email_configure_relay"
+  },
+  "next": {
+    "title": "Custom certificates",
+    "permalink": "/fr/administer/tutorials/certificate_custom"
+  }
+}

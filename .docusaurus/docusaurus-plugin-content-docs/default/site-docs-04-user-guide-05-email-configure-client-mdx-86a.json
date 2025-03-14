@@ -1,0 +1,27 @@
+{
+  "id": "user_guide/email_configure_client",
+  "title": "Configure email clients",
+  "description": "You can fetch and send emails using your YunoHost instance from desktop email clients such as Thunderbird Desktop or on your smartphone with applications like K-9 Mail.",
+  "source": "@site/docs/04.user_guide/05.email_configure_client.mdx",
+  "sourceDirName": "04.user_guide",
+  "slug": "/user_guide/email_configure_client",
+  "permalink": "/fr/user_guide/email_configure_client",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/04.user_guide/05.email_configure_client.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Configure email clients"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "User guide",
+    "permalink": "/fr/user_guide/"
+  },
+  "next": {
+    "title": "Migrating email from an email provider to a YunoHost instance",
+    "permalink": "/fr/user_guide/email_migration"
+  }
+}

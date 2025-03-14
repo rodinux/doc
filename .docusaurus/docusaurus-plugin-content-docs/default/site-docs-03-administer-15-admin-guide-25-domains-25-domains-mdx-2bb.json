@@ -1,0 +1,27 @@
+{
+  "id": "administer/admin_guide/domains/domains",
+  "title": "Domains",
+  "description": "YunoHost lets you manage and serve multiple domains on a single server. So you can host, for example, a blog and Nextcloud on a first domain yolo.com, and a webmail client on a second domain swag.nohost.me. Each domain is automatically configured to handle web services and e-mail.",
+  "source": "@site/docs/03.administer/15.admin_guide/25.domains/25.domains.mdx",
+  "sourceDirName": "03.administer/15.admin_guide/25.domains",
+  "slug": "/administer/admin_guide/domains/",
+  "permalink": "/fr/administer/admin_guide/domains/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/15.admin_guide/25.domains/25.domains.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "title": "Domains"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Users groups and permissions",
+    "permalink": "/fr/administer/admin_guide/users/groups_and_permissions"
+  },
+  "next": {
+    "title": "Certificate",
+    "permalink": "/fr/administer/admin_guide/domains/certificate"
+  }
+}

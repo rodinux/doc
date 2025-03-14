@@ -1,0 +1,27 @@
+{
+  "id": "contribute/packaging_apps/advanced/config_panels",
+  "title": "Config Panels",
+  "description": "From a practical point of view, one of the main purpose of config panel is to \"expose\" settings from the app's configuration files to YunoHost's admins which are therefore able to manipulate them from a nice web ui. This is especially relevant for apps which do not provide any sort of admin UI and expect admins to manually edit the configuration files.",
+  "source": "@site/docs/06.contribute/10.packaging_apps/60.advanced/20.config_panels.mdx",
+  "sourceDirName": "06.contribute/10.packaging_apps/60.advanced",
+  "slug": "/contribute/packaging_apps/advanced/config_panels",
+  "permalink": "/fr/contribute/packaging_apps/advanced/config_panels",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/60.advanced/20.config_panels.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "title": "Config Panels"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Advanced",
+    "permalink": "/fr/category/advanced"
+  },
+  "next": {
+    "title": "SSO/LDAP integration",
+    "permalink": "/fr/contribute/packaging_apps/advanced/sso_ldap_integration"
+  }
+}

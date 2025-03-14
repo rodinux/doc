@@ -1,0 +1,27 @@
+{
+  "id": "administer/admin_guide/users/users",
+  "title": "Users and the SSO",
+  "description": "Users",
+  "source": "@site/docs/03.administer/15.admin_guide/20.users/20.users.mdx",
+  "sourceDirName": "03.administer/15.admin_guide/20.users",
+  "slug": "/administer/admin_guide/users/",
+  "permalink": "/fr/administer/admin_guide/users/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/15.admin_guide/20.users/20.users.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "title": "Users and the SSO"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "SSH and command line",
+    "permalink": "/fr/administer/admin_guide/command_line"
+  },
+  "next": {
+    "title": "Users groups and permissions",
+    "permalink": "/fr/administer/admin_guide/users/groups_and_permissions"
+  }
+}

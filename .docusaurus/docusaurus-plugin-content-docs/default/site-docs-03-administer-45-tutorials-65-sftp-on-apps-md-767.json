@@ -1,0 +1,28 @@
+{
+  "id": "administer/tutorials/sftp_on_apps",
+  "title": "Give SFTP permission to edit an app",
+  "description": "In YunoHost permission management web admin interface, you can specify which user can access your system through SFTP.",
+  "source": "@site/docs/03.administer/45.tutorials/65.sftp_on_apps.md",
+  "sourceDirName": "03.administer/45.tutorials",
+  "slug": "/administer/tutorials/sftp_on_apps",
+  "permalink": "/fr/administer/tutorials/sftp_on_apps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/45.tutorials/65.sftp_on_apps.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 65,
+  "frontMatter": {
+    "sidebar_label": "Access apps via SFTP",
+    "title": "Give SFTP permission to edit an app"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Security",
+    "permalink": "/fr/administer/tutorials/security"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/fr/administer/troubleshooting/"
+  }
+}

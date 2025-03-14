@@ -1,0 +1,28 @@
+{
+  "id": "overview/self_hosting",
+  "title": "Self-hosting",
+  "description": "What is self-hosting?",
+  "source": "@site/docs/01.overview/05.self_hosting.md",
+  "sourceDirName": "01.overview",
+  "slug": "/overview/self_hosting",
+  "permalink": "/fr/overview/self_hosting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/01.overview/05.self_hosting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Self-hosting",
+    "description": "What is self-hosting?"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/fr/category/overview"
+  },
+  "next": {
+    "title": "What is YunoHost?",
+    "permalink": "/fr/overview/what_is_yunohost"
+  }
+}

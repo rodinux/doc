@@ -1,0 +1,27 @@
+{
+  "id": "community/project_budget",
+  "title": "Project budget",
+  "description": "Expected revenues",
+  "source": "@site/docs/05.community/35.project_budget.md",
+  "sourceDirName": "05.community",
+  "slug": "/community/project_budget",
+  "permalink": "/fr/community/project_budget",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/05.community/35.project_budget.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 35,
+  "frontMatter": {
+    "title": "Project budget"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Sponsors and partners",
+    "permalink": "/fr/community/sponsors_partners"
+  },
+  "next": {
+    "title": "Security team",
+    "permalink": "/fr/community/security_team"
+  }
+}

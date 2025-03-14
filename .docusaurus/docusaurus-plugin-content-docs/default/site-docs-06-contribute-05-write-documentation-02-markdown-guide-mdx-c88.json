@@ -1,0 +1,27 @@
+{
+  "id": "contribute/write_documentation/markdown_guide",
+  "title": "Markdown Guide",
+  "description": "Markdown is a markup language created in 2004, many add-ons developing the possibilities of this language exist. The objective of this guide is to aim for the exhaustiveness of the possibilities of this formatting language within the framework of the YunoHost documentation and not Markdown languages in general.",
+  "source": "@site/docs/06.contribute/05.write_documentation/02.markdown_guide.mdx",
+  "sourceDirName": "06.contribute/05.write_documentation",
+  "slug": "/contribute/write_documentation/markdown_guide",
+  "permalink": "/fr/contribute/write_documentation/markdown_guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/05.write_documentation/02.markdown_guide.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Markdown Guide"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Applications documentation",
+    "permalink": "/fr/contribute/write_documentation/apps_documentation"
+  },
+  "next": {
+    "title": "Contribute via Github",
+    "permalink": "/fr/contribute/write_documentation/git"
+  }
+}

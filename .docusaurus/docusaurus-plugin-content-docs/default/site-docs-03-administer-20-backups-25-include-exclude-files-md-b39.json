@@ -1,0 +1,27 @@
+{
+  "id": "administer/backups/include_exclude_files",
+  "title": "Include or exclude files",
+  "description": "Include files",
+  "source": "@site/docs/03.administer/20.backups/25.include_exclude_files.md",
+  "sourceDirName": "03.administer/20.backups",
+  "slug": "/administer/backups/include_exclude_files",
+  "permalink": "/fr/administer/backups/include_exclude_files",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/20.backups/25.include_exclude_files.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "title": "Include or exclude files"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Avoid hardware failure",
+    "permalink": "/fr/administer/backups/avoid_hardware_failure"
+  },
+  "next": {
+    "title": "Custom backup methods",
+    "permalink": "/fr/administer/backups/custom_backup_methods"
+  }
+}

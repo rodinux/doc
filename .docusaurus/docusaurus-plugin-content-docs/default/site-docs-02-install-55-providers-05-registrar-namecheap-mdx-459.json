@@ -1,0 +1,27 @@
+{
+  "id": "install/providers/registrar/namecheap",
+  "title": "Obtaining an API key from Namecheap",
+  "description": "See the API Documentation for reference.",
+  "source": "@site/docs/02.install/55.providers/05.registrar/namecheap.mdx",
+  "sourceDirName": "02.install/55.providers/05.registrar",
+  "slug": "/install/providers/registrar/namecheap",
+  "permalink": "/fr/install/providers/registrar/namecheap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/02.install/55.providers/05.registrar/namecheap.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Namecheap",
+    "title": "Obtaining an API key from Namecheap"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Gandi",
+    "permalink": "/fr/install/providers/registrar/gandi"
+  },
+  "next": {
+    "title": "OVH DNS config via API",
+    "permalink": "/fr/install/providers/registrar/ovh/autodns"
+  }
+}

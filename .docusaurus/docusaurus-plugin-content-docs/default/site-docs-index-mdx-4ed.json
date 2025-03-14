@@ -1,0 +1,24 @@
+{
+  "id": "index",
+  "title": "Docs introduction",
+  "description": "This is the documentation for YunoHost, a libre operating system aiming to simplify server administration and democratize self-hosting.",
+  "source": "@site/docs/index.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/fr/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Docs introduction",
+    "sidebar_position": 0
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Overview",
+    "permalink": "/fr/category/overview"
+  }
+}

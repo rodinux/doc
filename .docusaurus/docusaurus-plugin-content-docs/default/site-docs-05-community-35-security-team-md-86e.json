@@ -1,0 +1,27 @@
+{
+  "id": "community/security_team",
+  "title": "Security team",
+  "description": "Contact the security team by mail: security@yunohost.org.",
+  "source": "@site/docs/05.community/35.security_team.md",
+  "sourceDirName": "05.community",
+  "slug": "/community/security_team",
+  "permalink": "/fr/community/security_team",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/05.community/35.security_team.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 35,
+  "frontMatter": {
+    "title": "Security team"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Project budget",
+    "permalink": "/fr/community/project_budget"
+  },
+  "next": {
+    "title": "Communication",
+    "permalink": "/fr/community/press_kit"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "administer/troubleshooting/index",
+  "title": "Troubleshooting",
+  "description": "This section contains specific tips to troubleshoot common issues.",
+  "source": "@site/docs/03.administer/50.troubleshooting/index.mdx",
+  "sourceDirName": "03.administer/50.troubleshooting",
+  "slug": "/administer/troubleshooting/",
+  "permalink": "/fr/administer/troubleshooting/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/50.troubleshooting/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Troubleshooting"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Access apps via SFTP",
+    "permalink": "/fr/administer/tutorials/sftp_on_apps"
+  },
+  "next": {
+    "title": "Cleanup",
+    "permalink": "/fr/administer/troubleshooting/cleanup"
+  }
+}

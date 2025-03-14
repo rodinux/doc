@@ -1,0 +1,27 @@
+{
+  "id": "administer/troubleshooting/ipv6",
+  "title": "Setting up IPv6",
+  "description": "IPv6 may work out of the box in many cases. But in some cases or some specific provider, you may need to tweak things manually to enable IPv6.",
+  "source": "@site/docs/03.administer/50.troubleshooting/20.ipv6.md",
+  "sourceDirName": "03.administer/50.troubleshooting",
+  "slug": "/administer/troubleshooting/ipv6",
+  "permalink": "/fr/administer/troubleshooting/ipv6",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/50.troubleshooting/20.ipv6.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "title": "Setting up IPv6"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Get access back into YunoHost",
+    "permalink": "/fr/administer/troubleshooting/noaccess"
+  },
+  "next": {
+    "title": "Unblacklisting forms",
+    "permalink": "/fr/administer/troubleshooting/blacklist_forms"
+  }
+}

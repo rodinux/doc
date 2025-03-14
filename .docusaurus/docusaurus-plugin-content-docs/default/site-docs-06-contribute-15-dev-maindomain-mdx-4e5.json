@@ -1,0 +1,22 @@
+{
+  "id": "contribute/dev/maindomain",
+  "title": "How is used the main domain",
+  "description": "Here is a list of situations in which we use the main domain concept:",
+  "source": "@site/docs/06.contribute/15.dev/maindomain.mdx",
+  "sourceDirName": "06.contribute/15.dev",
+  "slug": "/contribute/dev/maindomain",
+  "permalink": "/fr/contribute/dev/maindomain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/15.dev/maindomain.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How is used the main domain"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Technical details for config panel structure and form option types",
+    "permalink": "/fr/contribute/dev/forms"
+  }
+}

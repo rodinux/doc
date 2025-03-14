@@ -1,0 +1,26 @@
+{
+  "id": "contribute/packaging_apps/scripts/index",
+  "title": "Writing app scripts",
+  "description": "App scripts are the essential logic defining what happens when an app is installed, removed, upgraded, backuped, or restored. They are written in Bash) which is the same stuff you type in interactive mode in a terminal, though we added a bunch of custom YunoHost functions that we call helpers to standardize many common operations - for example adding the nginx configuration.",
+  "source": "@site/docs/06.contribute/10.packaging_apps/20.scripts/index.mdx",
+  "sourceDirName": "06.contribute/10.packaging_apps/20.scripts",
+  "slug": "/contribute/packaging_apps/scripts/",
+  "permalink": "/fr/contribute/packaging_apps/scripts/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/20.scripts/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Writing app scripts"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "App resources",
+    "permalink": "/fr/contribute/packaging_apps/manifest/app_resources"
+  },
+  "next": {
+    "title": "General scope of variables",
+    "permalink": "/fr/contribute/packaging_apps/scripts/shell_variables_scope"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "contribute/packaging_apps/advanced/advanced_packagers",
+  "title": "Advanced packagers",
+  "description": "Here comes the time:",
+  "source": "@site/docs/06.contribute/10.packaging_apps/60.advanced/60.advanced_packagers.md",
+  "sourceDirName": "06.contribute/10.packaging_apps/60.advanced",
+  "slug": "/contribute/packaging_apps/advanced/advanced_packagers",
+  "permalink": "/fr/contribute/packaging_apps/advanced/advanced_packagers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/60.advanced/60.advanced_packagers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 60,
+  "frontMatter": {
+    "title": "Advanced packagers"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Hooks",
+    "permalink": "/fr/contribute/packaging_apps/advanced/packaging_apps_hooks"
+  },
+  "next": {
+    "title": "Packaging v2",
+    "permalink": "/fr/contribute/packaging_apps/advanced/packaging_v2"
+  }
+}

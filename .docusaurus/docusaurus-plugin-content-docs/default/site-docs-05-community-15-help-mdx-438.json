@@ -1,0 +1,27 @@
+{
+  "id": "community/help",
+  "title": "Looking for help?",
+  "description": "How to ask for help",
+  "source": "@site/docs/05.community/15.help.mdx",
+  "sourceDirName": "05.community",
+  "slug": "/community/help",
+  "permalink": "/fr/community/help",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/05.community/15.help.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "title": "Looking for help?"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Asking for help efficiently",
+    "permalink": "/fr/community/asking_for_help_efficiently"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/fr/community/faq"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "administer/tutorials/theming",
+  "title": "Customize the appearance of the user portal",
+  "description": "Globally disable the overlay",
+  "source": "@site/docs/03.administer/45.tutorials/10.theming.md",
+  "sourceDirName": "03.administer/45.tutorials",
+  "slug": "/administer/tutorials/theming",
+  "permalink": "/fr/administer/tutorials/theming",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/45.tutorials/10.theming.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Theme the portal",
+    "title": "Customize the appearance of the user portal"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "DNS and subdomains for the applications",
+    "permalink": "/fr/administer/tutorials/domains/dns_subdomains"
+  },
+  "next": {
+    "title": "Transfer files",
+    "permalink": "/fr/administer/tutorials/filezilla"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "community/sponsors_partners",
+  "title": "Sponsors and partners",
+  "description": "In order to advance and make the project works, in addition to the work of volunteers and donations, YunoHost benefits from the support of sponsors and partners.",
+  "source": "@site/docs/05.community/30.sponsors_partners.md",
+  "sourceDirName": "05.community",
+  "slug": "/community/sponsors_partners",
+  "permalink": "/fr/community/sponsors_partners",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/05.community/30.sponsors_partners.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "title": "Sponsors and partners"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Project organisation",
+    "permalink": "/fr/community/yunohost_project_organization"
+  },
+  "next": {
+    "title": "Project budget",
+    "permalink": "/fr/community/project_budget"
+  }
+}

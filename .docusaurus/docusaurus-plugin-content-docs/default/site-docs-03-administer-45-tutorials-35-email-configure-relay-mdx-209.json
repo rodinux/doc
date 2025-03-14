@@ -1,0 +1,27 @@
+{
+  "id": "administer/tutorials/email_configure_relay",
+  "title": "Configure SMTP relay",
+  "description": "If your ISP blocks port 25, if you can't set a reverseDNS on your server, or if you have any other troubles using the built-in SMTP server on YunoHost, you may want to setup your YunoHost server to use an SMTP relay.",
+  "source": "@site/docs/03.administer/45.tutorials/35.email_configure_relay.mdx",
+  "sourceDirName": "03.administer/45.tutorials",
+  "slug": "/administer/tutorials/email_configure_relay",
+  "permalink": "/fr/administer/tutorials/email_configure_relay",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/45.tutorials/35.email_configure_relay.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 35,
+  "frontMatter": {
+    "title": "Configure SMTP relay"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Add external storage",
+    "permalink": "/fr/administer/tutorials/external_storage"
+  },
+  "next": {
+    "title": "Configure Tor Hidden Service",
+    "permalink": "/fr/administer/tutorials/torhiddenservice"
+  }
+}

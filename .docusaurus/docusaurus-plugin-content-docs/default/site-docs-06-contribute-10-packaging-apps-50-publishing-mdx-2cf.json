@@ -1,0 +1,27 @@
+{
+  "id": "contribute/packaging_apps/publishing",
+  "title": "Publishing your app on the catalog",
+  "description": "The official YunoHost's app catalog is maintained in this repository,",
+  "source": "@site/docs/06.contribute/10.packaging_apps/50.publishing.mdx",
+  "sourceDirName": "06.contribute/10.packaging_apps",
+  "slug": "/contribute/packaging_apps/publishing",
+  "permalink": "/fr/contribute/packaging_apps/publishing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/50.publishing.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "title": "Publishing your app on the catalog"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Testing your app",
+    "permalink": "/fr/contribute/packaging_apps/testing"
+  },
+  "next": {
+    "title": "Advanced",
+    "permalink": "/fr/category/advanced"
+  }
+}

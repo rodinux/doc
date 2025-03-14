@@ -1,0 +1,31 @@
+{
+  "id": "overview/try_yunohost",
+  "title": "Try YunoHost",
+  "description": "A demo server",
+  "source": "@site/docs/01.overview/15.try_yunohost.mdx",
+  "sourceDirName": "01.overview",
+  "slug": "/overview/try_yunohost",
+  "permalink": "/fr/overview/try_yunohost",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/01.overview/15.try_yunohost.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "title": "Try YunoHost",
+    "description": "A demo server",
+    "routes": {
+      "default": "/try"
+    }
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "What is YunoHost?",
+    "permalink": "/fr/overview/what_is_yunohost"
+  },
+  "next": {
+    "title": "Choose your selfhosting method and providers",
+    "permalink": "/fr/install/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "install/providers/isp/index",
+  "title": "Internet service providers",
+  "description": "The guys that provide the internet line and router",
+  "source": "@site/docs/02.install/55.providers/10.isp/index.mdx",
+  "sourceDirName": "02.install/55.providers/10.isp",
+  "slug": "/install/providers/isp/",
+  "permalink": "/fr/install/providers/isp/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/02.install/55.providers/10.isp/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Internet service providers",
+    "description": "The guys that provide the internet line and router"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "OVH manual DNS config",
+    "permalink": "/fr/install/providers/registrar/ovh/manualdns"
+  },
+  "next": {
+    "title": "VPN providers",
+    "permalink": "/fr/install/providers/vpn/"
+  }
+}

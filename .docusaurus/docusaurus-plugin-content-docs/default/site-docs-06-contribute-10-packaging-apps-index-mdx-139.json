@@ -1,0 +1,26 @@
+{
+  "id": "contribute/packaging_apps/index",
+  "title": "Packaging applications",
+  "description": "This documentation is here to provide all the basic concepts and vocabulary needed to understand app packaging.",
+  "source": "@site/docs/06.contribute/10.packaging_apps/index.mdx",
+  "sourceDirName": "06.contribute/10.packaging_apps",
+  "slug": "/contribute/packaging_apps/",
+  "permalink": "/fr/contribute/packaging_apps/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Packaging applications"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Contribute via Github",
+    "permalink": "/fr/contribute/write_documentation/git"
+  },
+  "next": {
+    "title": "Writing the app manifest",
+    "permalink": "/fr/contribute/packaging_apps/manifest/"
+  }
+}

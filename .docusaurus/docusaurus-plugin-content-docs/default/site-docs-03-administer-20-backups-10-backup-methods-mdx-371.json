@@ -1,0 +1,27 @@
+{
+  "id": "administer/backups/backup_methods",
+  "title": "Backup methods",
+  "description": "YunoHost currently has three apps integrating backup solutions offering more features than the simple \".tar\" mechanism shipped in YunoHost, in particular automatic and remote backups.",
+  "source": "@site/docs/03.administer/20.backups/10.backup_methods.mdx",
+  "sourceDirName": "03.administer/20.backups",
+  "slug": "/administer/backups/backup_methods",
+  "permalink": "/fr/administer/backups/backup_methods",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/20.backups/10.backup_methods.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Backup methods"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Backup strategies",
+    "permalink": "/fr/administer/backups/evaluate"
+  },
+  "next": {
+    "title": "Snapshotting the entire filesystem",
+    "permalink": "/fr/administer/backups/clone_filesystem"
+  }
+}

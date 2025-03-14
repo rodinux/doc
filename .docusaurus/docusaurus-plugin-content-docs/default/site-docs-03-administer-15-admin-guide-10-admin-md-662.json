@@ -1,0 +1,27 @@
+{
+  "id": "administer/admin_guide/admin",
+  "title": "Administrator web interface",
+  "description": "YunoHost has an administrator web interface. The other way to administrate your YunoHost install is through the command line.",
+  "source": "@site/docs/03.administer/15.admin_guide/10.admin.md",
+  "sourceDirName": "03.administer/15.admin_guide",
+  "slug": "/administer/admin_guide/admin",
+  "permalink": "/fr/administer/admin_guide/admin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/15.admin_guide/10.admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Administrator web interface"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Advices and guidelines",
+    "permalink": "/fr/administer/admin_guide/guidelines"
+  },
+  "next": {
+    "title": "SSH and command line",
+    "permalink": "/fr/administer/admin_guide/command_line"
+  }
+}

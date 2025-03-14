@@ -1,0 +1,27 @@
+{
+  "id": "administer/tutorials/certificate_custom",
+  "title": "Custom certificates",
+  "description": "Since version 2.5, YunoHost integrates Let's Encrypt certificates automated management. You can easily and freely install a Let's Encrypt certificate. The following document describes the steps for installing a paid certificate from a certification authority (Gandi, RapidSSL, StartSSL, Cacert).",
+  "source": "@site/docs/03.administer/45.tutorials/45.certificate_custom.md",
+  "sourceDirName": "03.administer/45.tutorials",
+  "slug": "/administer/tutorials/certificate_custom",
+  "permalink": "/fr/administer/tutorials/certificate_custom",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/45.tutorials/45.certificate_custom.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 45,
+  "frontMatter": {
+    "title": "Custom certificates"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Configure Tor Hidden Service",
+    "permalink": "/fr/administer/tutorials/torhiddenservice"
+  },
+  "next": {
+    "title": "Move apps storage",
+    "permalink": "/fr/administer/tutorials/moving_app_folder"
+  }
+}

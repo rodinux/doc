@@ -1,0 +1,24 @@
+{
+  "id": "install/index",
+  "title": "Choose your selfhosting method and providers",
+  "description": "You can host yourself at home (on a small computer), or on a remote server. Each solution has their pros and cons:",
+  "source": "@site/docs/02.install/index.mdx",
+  "sourceDirName": "02.install",
+  "slug": "/install/",
+  "permalink": "/fr/install/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/02.install/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Try YunoHost",
+    "permalink": "/fr/overview/try_yunohost"
+  },
+  "next": {
+    "title": "Providers",
+    "permalink": "/fr/category/providers"
+  }
+}

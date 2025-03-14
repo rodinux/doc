@@ -1,0 +1,27 @@
+{
+  "id": "contribute/write_documentation/git",
+  "title": "Contribute via Github",
+  "description": "It is of course possible to contribute directly to the YunoHost documentation, but this is not the most convenient way to do so for both the contributor and the person who will inject your contribution into the documentation. Here is a tutorial to understand and create a contribution to the YunoHost documentation using Git and GitHub.com which is the Git forge service that hosts and stores the YunoHost source code and documentation.",
+  "source": "@site/docs/06.contribute/05.write_documentation/03.git.mdx",
+  "sourceDirName": "06.contribute/05.write_documentation",
+  "slug": "/contribute/write_documentation/git",
+  "permalink": "/fr/contribute/write_documentation/git",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/05.write_documentation/03.git.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Contribute via Github"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Markdown Guide",
+    "permalink": "/fr/contribute/write_documentation/markdown_guide"
+  },
+  "next": {
+    "title": "Packaging applications",
+    "permalink": "/fr/contribute/packaging_apps/"
+  }
+}

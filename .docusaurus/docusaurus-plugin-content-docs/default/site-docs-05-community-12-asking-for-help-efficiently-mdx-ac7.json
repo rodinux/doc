@@ -1,0 +1,27 @@
+{
+  "id": "community/asking_for_help_efficiently",
+  "title": "Asking for help efficiently",
+  "description": "Even though YunoHost contributors try to continuously perfect it, YunoHost itself, its packages or this documentation are not free from bugs or flaw. To let us help you, however, you need to follow these guidelines.",
+  "source": "@site/docs/05.community/12.asking_for_help_efficiently.mdx",
+  "sourceDirName": "05.community",
+  "slug": "/community/asking_for_help_efficiently",
+  "permalink": "/fr/community/asking_for_help_efficiently",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/05.community/12.asking_for_help_efficiently.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "Asking for help efficiently"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Chat rooms",
+    "permalink": "/fr/community/chat_rooms"
+  },
+  "next": {
+    "title": "Looking for help?",
+    "permalink": "/fr/community/help"
+  }
+}

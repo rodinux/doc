@@ -1,0 +1,28 @@
+{
+  "id": "install/providers/servers",
+  "title": "Server providers",
+  "description": "The guys that provide someone else's computer",
+  "source": "@site/docs/02.install/55.providers/20.servers.mdx",
+  "sourceDirName": "02.install/55.providers",
+  "slug": "/install/providers/servers",
+  "permalink": "/fr/install/providers/servers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/02.install/55.providers/20.servers.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "title": "Server providers",
+    "description": "The guys that provide someone else's computer"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Advantages",
+    "permalink": "/fr/install/providers/vpn/vpn_advantage"
+  },
+  "next": {
+    "title": "Administration guide",
+    "permalink": "/fr/category/administration-guide"
+  }
+}

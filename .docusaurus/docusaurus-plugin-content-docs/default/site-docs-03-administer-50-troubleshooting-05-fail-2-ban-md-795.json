@@ -1,0 +1,27 @@
+{
+  "id": "administer/troubleshooting/fail2ban",
+  "title": "IP address unban",
+  "description": "Fail2Ban is an intrusion prevention software that protects computer servers against brute-force attacks. It monitors certain logs and will ban IP addresses that show brute-force-like behavior.",
+  "source": "@site/docs/03.administer/50.troubleshooting/05.fail2ban.md",
+  "sourceDirName": "03.administer/50.troubleshooting",
+  "slug": "/administer/troubleshooting/fail2ban",
+  "permalink": "/fr/administer/troubleshooting/fail2ban",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/03.administer/50.troubleshooting/05.fail2ban.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "IP address unban"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Cleanup",
+    "permalink": "/fr/administer/troubleshooting/cleanup"
+  },
+  "next": {
+    "title": "Changing the administration password",
+    "permalink": "/fr/administer/troubleshooting/change_admin_password"
+  }
+}

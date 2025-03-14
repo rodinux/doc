@@ -1,0 +1,27 @@
+{
+  "id": "contribute/packaging_apps/advanced/packaging_apps_hooks",
+  "title": "Hooks",
+  "description": "YunoHost includes a hook mechanism triggered on a lot of operation changing the system. You can use this mechanism in order to extend the behaviour of a YunoHost command.",
+  "source": "@site/docs/06.contribute/10.packaging_apps/60.advanced/50.packaging_apps_hooks.md",
+  "sourceDirName": "06.contribute/10.packaging_apps/60.advanced",
+  "slug": "/contribute/packaging_apps/advanced/packaging_apps_hooks",
+  "permalink": "/fr/contribute/packaging_apps/advanced/packaging_apps_hooks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/60.advanced/50.packaging_apps_hooks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "title": "Hooks"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "SSO/LDAP integration",
+    "permalink": "/fr/contribute/packaging_apps/advanced/sso_ldap_integration"
+  },
+  "next": {
+    "title": "Advanced packagers",
+    "permalink": "/fr/contribute/packaging_apps/advanced/advanced_packagers"
+  }
+}

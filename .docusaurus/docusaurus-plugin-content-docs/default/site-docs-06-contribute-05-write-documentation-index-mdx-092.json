@@ -1,0 +1,26 @@
+{
+  "id": "contribute/write_documentation/index",
+  "title": "Write documentation",
+  "description": "{/ TODO: migrate this doc to docusaurus /}",
+  "source": "@site/docs/06.contribute/05.write_documentation/index.mdx",
+  "sourceDirName": "06.contribute/05.write_documentation",
+  "slug": "/contribute/write_documentation/",
+  "permalink": "/fr/contribute/write_documentation/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/05.write_documentation/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Write documentation"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Contribute",
+    "permalink": "/fr/contribute/"
+  },
+  "next": {
+    "title": "Applications documentation",
+    "permalink": "/fr/contribute/write_documentation/apps_documentation"
+  }
+}

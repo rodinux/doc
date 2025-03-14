@@ -1,0 +1,27 @@
+{
+  "id": "contribute/packaging_apps/advanced/sso_ldap_integration",
+  "title": "SSO/LDAP integration",
+  "description": "One powerful aspect of YunoHost is that apps are meant to be integrated with the SSO/LDAP stack, such that users logged in on YunoHost's user portal can be directly logged in each app without having to create an account in each of them nor having to re-log in each app every time.",
+  "source": "@site/docs/06.contribute/10.packaging_apps/60.advanced/30.sso_ldap_integration.md",
+  "sourceDirName": "06.contribute/10.packaging_apps/60.advanced",
+  "slug": "/contribute/packaging_apps/advanced/sso_ldap_integration",
+  "permalink": "/fr/contribute/packaging_apps/advanced/sso_ldap_integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/60.advanced/30.sso_ldap_integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "title": "SSO/LDAP integration"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Config Panels",
+    "permalink": "/fr/contribute/packaging_apps/advanced/config_panels"
+  },
+  "next": {
+    "title": "Hooks",
+    "permalink": "/fr/contribute/packaging_apps/advanced/packaging_apps_hooks"
+  }
+}

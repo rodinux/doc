@@ -1,0 +1,34 @@
+{
+  "id": "contribute/packaging_apps/scripts/shell_variables_scope",
+  "title": "General scope of variables",
+  "description": "Variables exists for the current shell and its children only.",
+  "source": "@site/docs/06.contribute/10.packaging_apps/20.scripts/10.shell_variables_scope.md",
+  "sourceDirName": "06.contribute/10.packaging_apps/20.scripts",
+  "slug": "/contribute/packaging_apps/scripts/shell_variables_scope",
+  "permalink": "/fr/contribute/packaging_apps/scripts/shell_variables_scope",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/06.contribute/10.packaging_apps/20.scripts/10.shell_variables_scope.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "General scope of variables",
+    "template": "docs",
+    "taxonomy": {
+      "category": "docs"
+    },
+    "routes": {
+      "default": "/shell_variables_scope"
+    }
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Writing app scripts",
+    "permalink": "/fr/contribute/packaging_apps/scripts/"
+  },
+  "next": {
+    "title": "App helpers (v2)",
+    "permalink": "/fr/contribute/packaging_apps/scripts/packaging_app_scripts_helpers"
+  }
+}

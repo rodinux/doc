@@ -1,0 +1,27 @@
+{
+  "id": "install/providers/registrar/ovh/manualdns",
+  "title": "DNS Configuration with OVH",
+  "description": "Let's see how to properly set the DNS redirections with OVH.",
+  "source": "@site/docs/02.install/55.providers/05.registrar/ovh/manualdns.md",
+  "sourceDirName": "02.install/55.providers/05.registrar/ovh",
+  "slug": "/install/providers/registrar/ovh/manualdns",
+  "permalink": "/fr/install/providers/registrar/ovh/manualdns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/YunoHost/doc/tree/docusaurus/docs/02.install/55.providers/05.registrar/ovh/manualdns.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "OVH manual DNS config",
+    "title": "DNS Configuration with OVH"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "OVH DNS config via API",
+    "permalink": "/fr/install/providers/registrar/ovh/autodns"
+  },
+  "next": {
+    "title": "Internet service providers",
+    "permalink": "/fr/install/providers/isp/"
+  }
+}
