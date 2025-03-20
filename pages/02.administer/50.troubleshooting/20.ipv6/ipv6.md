@@ -16,7 +16,7 @@ The OVH's documentation is here : <https://docs.ovh.com/gb/en/vps/configuring-ip
 
 ### Configure the DNS server
 
-Here : <https://yunohost.org/#/dns_subdomains>
+Here : <https://yunohost.org/en/dns_subdomains>
 
 ### Configure the server
 
